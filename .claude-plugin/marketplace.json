@@ -1,0 +1,19 @@
+{
+  "name": "local-voice-transcription",
+  "description": "Transcribe voice messages and recordings on the machine itself, with no cloud round trip and no upload.",
+  "owner": {
+    "name": "Julylan Johnson",
+    "url": "https://github.com/Verstige"
+  },
+  "metadata": {
+    "description": "Transcribe voice messages and recordings on the machine itself, with no cloud round trip and no upload.",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "local-voice-transcription",
+      "source": "./plugins/local-voice-transcription",
+      "description": "Transcribe voice messages and recordings on the machine itself, with no cloud round trip and no upload."
+    }
+  ]
+}
